@@ -1,16 +1,21 @@
 _repo: Schetsen-uit-de-Dierenwereld_56000
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wolf, Joseph
     gutenberg_agent_id: '48617'
     url: http://www.gutenberg.org/2009/agents/48617
+covers:
+- cover_type: archival
+  image_path: 56000-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliot, Daniel Giraud
     gutenberg_agent_id: '48616'
     url: http://www.gutenberg.org/2009/agents/48616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56000#Schetsen-uit-de-Dierenwereld
 gutenberg_issued: '2017-11-19'
 gutenberg_type: Text
 identifiers:
